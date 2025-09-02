@@ -7,14 +7,14 @@
 ## ✨ 주요 기능
 
 -   **음성 인식**: 사용자의 목소리를 텍스트로 변환하여 게임 명령으로 사용합니다.
--   **AI 게임 마스터**: OpenAI의 gpt-4o 모델이 게임 시나리오를 동적으로 생성하고 사용자의 행동에 대한 결과를 묘사합니다.
+-   **AI 게임 마스터**: OpenAI의 gpt-5-mini 모델이 게임 시나리오를 동적으로 생성하고 사용자의 행동에 대한 결과를 묘사합니다.
 -   **음성 나레이션**: Google의 Gemini TTS (Text-to-Speech) 모델이 게임 마스터의 설명을 생생한 목소리로 들려줍니다.
 -   **완전 몰입형**: 키보드나 마우스 없이 오직 목소리로만 게임에 몰입할 수 있습니다.
 
 ## 🛠️ 사용된 기술
 
 -   **AI/LLM**:
-    -   OpenAI gpt-4o (게임 로직 및 스토리 진행)
+    -   OpenAI gpt-5-mini (게임 로직 및 스토리 진행)
     -   Google Gemini 2.5 Flash Preview TTS (나레이션 음성 합성)
 -   **Speech-to-Text**: `speech_recognition` 라이브러리 (Google Web Speech API)
 -   **Python Libraries**:
