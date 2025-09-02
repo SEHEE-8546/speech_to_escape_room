@@ -69,4 +69,4 @@ GEMINI_API_KEY="여기에_당신의_GEMINI_API_키를_입력하세요"
 - TTS 모델 변경: `gemini-2.5-flash-preview-tts` 모델은 무료 api키에서 하루 15번 요청 가능.. `gemini-live-2.5-flash-preview` 로 변경 예정
 - streamlit 구현: streamlit에서 나레이션과 함께 시각적으로 볼 수 있는 퍼즐이나 단서 등을 구현해보고 싶다.
 - prompt 보안: prompt를 열심히 써봤는데 아직도 가끔 말을 듣지않을 때가 있다. 추가해야 할 것 이나, 보안해야 할 부분 찾아 봐야겠다.
-- 텍스트생성 모델 변경: OpenAI API로 gpt-5-mini 모델을 구동하는데 쓸 때마다 과금이 될 수 밖에 없는 구조.. 무료 API나 HuggingFace를 이용하여 최적의 모델을 찾아서 변경하고 싶다.
+- 텍스트생성 모델 변경: OpenAI API로 gpt-5-mini 모델을 구동하는데 쓸 때마다 과금이 될 수 밖에 없는 구조.. <br>무료 API나 HuggingFace를 이용하여 최적의 모델을 찾아서 변경하고 싶다.
